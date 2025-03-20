@@ -33,17 +33,12 @@ This web application allows users to:
    git clone https://github.com/your-username/medical-predictions-app.git
    ```
 
-2. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the Streamlit app:
+2. Run the Streamlit app:
    ```
    streamlit run app.py
    ```
 
-4. Access the web application through your browser at the provided local URL
+3. Access the web application through your browser at the provided local URL
 
 ## Required Data Files
 
@@ -52,13 +47,10 @@ Make sure the following files are in the same directory as the application:
 - Heart Disease Predictions.csv
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/ae85a009-91bc-4c4a-8846-db1c157b6b21)
+![image](https://github.com/user-attachments/assets/526d0857-1378-44dc-a720-c4609dfc909b)
 
-[Consider adding screenshots of your application here]
 
 ## Disclaimer
-
 This application is intended for educational and demonstration purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment.
 
-## License
-
-[Add your preferred license here]
