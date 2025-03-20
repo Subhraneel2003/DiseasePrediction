@@ -1,4 +1,4 @@
-# Medical Predictions App
+# Medical Prediction App
 
 A Streamlit web application that predicts the likelihood of diabetes and heart disease based on user-provided health metrics.
 
